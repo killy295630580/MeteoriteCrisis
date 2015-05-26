@@ -1,0 +1,1108 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"forp	for k,v in pairs()"
+			],
+			[
+				"print",
+				"printf(fmt, ...)	."
+			],
+			[
+				"ba",
+				"background	."
+			],
+			[
+				"stopA",
+				"stopAction(action)	Node"
+			],
+			[
+				"sett",
+				"setTag(tag)	Action"
+			],
+			[
+				"he",
+				"height	."
+			],
+			[
+				"_",
+				"_background	."
+			],
+			[
+				"display",
+				"display.top	."
+			],
+			[
+				"getcon",
+				"getContentSize()	Node"
+			],
+			[
+				"self",
+				"self.progress	."
+			],
+			[
+				"P",
+				"Progress	."
+			],
+			[
+				"setPer",
+				"setPercentage(percentage)	ProgressTimer"
+			],
+			[
+				"addchild",
+				"addChild(child, localZOrder, name)	Node"
+			],
+			[
+				"setP",
+				"setPercentage(percentage)	ProgressTimer"
+			],
+			[
+				"dis",
+				"display.cy	."
+			],
+			[
+				"b",
+				"background	."
+			],
+			[
+				"move",
+				"moveTo(time, x, y)	Node"
+			],
+			[
+				"pos",
+				"pos(x, y)	Node"
+			],
+			[
+				"displ",
+				"display.width	."
+			],
+			[
+				"po",
+				"pos(x, y)	Node"
+			],
+			[
+				"addT",
+				"addTouchLayer()	MainScene"
+			],
+			[
+				"getCon",
+				"getContentSize()	Node"
+			],
+			[
+				"E",
+				"Enemy1	."
+			],
+			[
+				"disp",
+				"display.cy	."
+			],
+			[
+				"getContentS",
+				"getContentSize()	Node"
+			],
+			[
+				"new",
+				"new(...)"
+			],
+			[
+				"Pla",
+				"Player	."
+			],
+			[
+				"Pl",
+				"Player	."
+			],
+			[
+				"addC",
+				"addChild(child, localZOrder, name)	Node"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"p",
+				"PQ"
+			],
+			[
+				"fix",
+				"fixDown"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"fun",
+				"function	function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/workspace/cocos2dx/new2048/Classes/ResultLayer.h",
+			"settings":
+			{
+				"buffer_size": 78,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/windows/Desktop/游戏说明",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "1. 在飞船的上方或者下方点击，飞船会缓慢移动到对应的坐标上。点击的范围是屏幕宽度的3/25。"
+			}
+		},
+		{
+			"file": "/D/workspace/cocos2dx/new2048/Classes/ResultLayer.cpp",
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/workspace/cocos2dx/new2048/Classes/GameScene.cpp",
+			"settings":
+			{
+				"buffer_size": 14823,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/QuickXDev/Lua.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pc",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 187.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/windows/Desktop/SpaceGame/Classes/HelloWorldScene.cpp",
+		"/D/Cocos2D-x/cocos2d-x-3.4/tests/cpp-tests/Classes/ParticleTest/ParticleTest.cpp",
+		"/E/windows/Desktop/陨石危机-Meteorite Crisis/double_click_check.cpp",
+		"/E/windows/Desktop/陨石危机-Meteorite Crisis/size.cpp",
+		"/D/workspace/cocos2dx/MeteoriteCrisis/Classes/Meteorite.cpp",
+		"/D/workspace/cocos2dx/new2048/Classes/ResultLayer.cpp",
+		"/D/workspace/cocos2dx/new2048/Classes/GameScene.cpp",
+		"/D/Cocos2D-x/cocos2d-x-3.4/tests/cpp-tests/Classes/ParticleTest/ParticleTest.h",
+		"/E/windows/Desktop/SpaceGame/Classes/HelloWorldScene.h",
+		"/D/workspace/cocos2dx/MeteoriteCrisis/Classes/PlayLayer.cpp",
+		"/E/windows/Desktop/printa.lua",
+		"/D/Program Files/Sublime Text 2/Data/Packages/User/Preferences.sublime-settings",
+		"/D/workspace/cocos2dx/MeteoriteCrisis/Classes/AppDelegate.cpp",
+		"/D/workspace/cocos2dx/MeteoriteCrisis/Classes/AppDelegate.h",
+		"/D/workspace/cocos2dx/MeteoriteCrisis/Classes/BgLayer.cpp",
+		"/D/workspace/cocos2dx/MeteoriteCrisis/Classes/BgLayer.h",
+		"/D/workspace/cocos2dx/MeteoriteCrisis/Classes/GameScene.cpp",
+		"/D/workspace/cocos2dx/MeteoriteCrisis/Classes/GameScene.h",
+		"/D/workspace/cocos2dx/MeteoriteCrisis/Classes/HelloWorldScene.cpp",
+		"/D/workspace/cocos2dx/MeteoriteCrisis/Classes/HelloWorldScene.h",
+		"/D/workspace/cocos2dx/MeteoriteCrisis/Classes/Laser.cpp",
+		"/D/workspace/cocos2dx/MeteoriteCrisis/Classes/Laser.h",
+		"/D/workspace/cocos2dx/MeteoriteCrisis/Classes/MenuLayer.cpp",
+		"/D/workspace/cocos2dx/MeteoriteCrisis/Classes/Player.cpp",
+		"/D/workspace/cocos2dx/MeteoriteCrisis/Classes/Player.h",
+		"/D/workspace/cocos2dx/MeteoriteCrisis/Classes/PlayLayer.h",
+		"/C/Users/Killy/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Killy/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/workspace/cocos2dx/quick/Brave/brave/src/app/MyApp.lua",
+		"/D/workspace/cocos2dx/quick/Brave/brave/src/framework/display.lua",
+		"/D/workspace/cocos2dx/quick/Brave/brave/src/app/ui/Progress.lua",
+		"/D/workspace/cocos2dx/quick/Brave/brave/src/app/roles/Player.lua",
+		"/D/workspace/cocos2dx/quick/Brave/brave/src/app/roles/Enemy1.lua",
+		"/D/workspace/cocos2dx/quick/Brave/brave/src/app/scenes/MainScene.lua",
+		"/D/workspace/cocos2dx/quick/Brave/brave/src/framework/functions.lua",
+		"/D/workspace/cocos2dx/quick/Brave/brave/src/framework/transition.lua",
+		"/D/workspace/cocos2dx/quick/Brave/brave/src/app/UI/Progress.lua",
+		"/D/workspace/cocos2dx/quick/Brave/brave/src/cocos/cocos2d/DeprecatedCocos2dClass.lua",
+		"/C/Users/Killy/AppData/Roaming/Sublime Text 2/Packages/QuickXDev/Default (Windows).sublime-keymap",
+		"/C/Users/Killy/AppData/Roaming/Sublime Text 2/Packages/User/QuickXDev.sublime-settings",
+		"/D/workspace/cocos2dx/quick/Brave/brave/src/cocos/cocos2d/Cocos2d.lua",
+		"/D/workspace/cocos2dx/quick/Brave/brave/src/framework/shortcodes.lua",
+		"/D/Cocos2D-x/cocos2d-x-3.2/cocos/2d/CCNode.h",
+		"/D/Cocos2D-x/cocos2d-x-3.2/cocos/2d/CCActionGrid3D.h",
+		"/D/workspace/cocos2dx/quick/Brave/brave/src/framework/cc/GameObject.lua",
+		"/D/workspace/cocos2dx/quick/Brave/brave/src/framework/anysdkConst.lua",
+		"/D/workspace/cocos2dx/quick/Brave/brave/src/config.lua",
+		"/E/windows/Desktop/test.lua",
+		"/C/Users/Killy/AppData/Roaming/Sublime Text 2/Packages/QuickXDev/QuickXDev.sublime-settings",
+		"/C/Users/Killy/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/E/windows/Desktop/heapSort.cpp",
+		"/E/windows/Desktop/heapSort.h",
+		"/E/windows/Desktop/main.cpp",
+		"/E/windows/Desktop/堆排序.cpp",
+		"/E/windows/Desktop/堆排序.cpp.dump.cpp",
+		"/E/windows/Desktop/基本排序算法.cpp",
+		"/E/windows/Desktop/基本排序算法.cpp.dump.cpp",
+		"/E/windows/Desktop/test.cpp",
+		"/C/Users/Killy/AppData/Roaming/Sublime Text 2/Packages/C++/C++.sublime-build",
+		"/E/windows/Desktop/lua",
+		"/E/windows/Desktop/lua/2.lua",
+		"/C/Users/Killy/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Killy/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/E/windows/Desktop/lua/1.lua",
+		"/E/windows/Desktop/新建文本文档.txt.dump.txt",
+		"/E/windows/Desktop/新建文本文档.txt",
+		"/E/windows/Desktop/lua/sublimeText+lua开发环境.txt",
+		"/C/Users/Killy/AppData/Roaming/Sublime Text 2/Packages/User/MyluaBuild.sublime-build",
+		"/D/Qt/Qt_MinGW/Qt4.8.6/bin/qmake.exe"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\workspace\\cocos2dx\\quick\\Brave\\brave\\src\\framework",
+			"D:\\workspace\\cocos2dx\\quick\\Brave\\brave\\src\\cocos",
+			"D:\\workspace\\cocos2dx\\quick\\Brave\\brave\\src\\cocos\\cocos2d",
+			"D:\\workspace\\cocos2dx\\quick\\Brave\\brave\\src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setTouchListener",
+			"showResult",
+			"<br>",
+			"resetGame",
+			"reset",
+			"resetGame",
+			"setTouchListener",
+			"touch",
+			"childs",
+			"PlayLayer::setRandSeed();",
+			"(sprite1->getContentSize().height / 2 - 5)*d",
+			"release",
+			"asteroid",
+			"_backgroundNode",
+			"debug",
+			"play",
+			"class",
+			"cc.ProgressTimer",
+			"ProgressTimer",
+			"newProgressTimer",
+			"addAnimation",
+			"playAnimationForever",
+			"CCpoint",
+			"newnode",
+			"newNode",
+			"PointDistance",
+			"image",
+			"display.lua",
+			"\n",
+			"i",
+			"j",
+			"keys",
+			"subwords"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/workspace/cocos2dx/new2048/Classes/ResultLayer.h",
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"function_name_status_row": 0,
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "ASCII",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/windows/Desktop/游戏说明",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "1. 在飞船的上方或者下方点击，飞船会缓慢移动到对应的坐标上。点击的范围是屏幕宽度的3/25。",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"function_name_status_row": 0,
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"is_preview": true,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/workspace/cocos2dx/new2048/Classes/ResultLayer.cpp",
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"function_name_status_row": 0,
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "ASCII",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/workspace/cocos2dx/new2048/Classes/GameScene.cpp",
+					"settings":
+					{
+						"buffer_size": 14823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14029,
+								14029
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"function_name_status_row": 618,
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"in_converting": true,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "UTF-8-SIG",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10810.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}
